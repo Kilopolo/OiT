@@ -11,7 +11,7 @@
 #include <Arduino.h>
 
 // defino el pin que se usa para el led
-int led = 13;
+int led = 12;
 
 void setup () {
   //Defino el pin como salida
